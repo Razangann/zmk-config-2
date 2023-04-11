@@ -11,5 +11,5 @@ features:
   - encoder
   - underglow
 siblings:
-  - sofle_rgb_keyhive_left
-  - sofle_rgb_keyhive_right
+  - sofle_left
+  - sofle_right
